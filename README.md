@@ -13,7 +13,10 @@ pip install Flask
 para ejecutar el servidor basta con la opcion flask run
 
 para comprobar la funcion de importación de datos utilize el archivo train2.csv
+
 scikit learn
+
 postgresql
+
 pip install psycopg2
 
