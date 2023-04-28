@@ -16,3 +16,4 @@ pip install Flask
 para ejecutar el servidor basta con la opcion flask run
 
 #para comprobar la funcion de importación de datos utulize el archivo train2.csv
+
